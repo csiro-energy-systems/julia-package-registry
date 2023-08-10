@@ -1,0 +1,5 @@
+name = "julia-package-registry"
+uuid = "24be385e-6baa-4bbc-9931-0f409b839c8e"
+repo = "https://github.com/csiro-energy-systems/julia-package-registry.git"
+
+[packages]
